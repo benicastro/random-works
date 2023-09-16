@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["astroc", "psutil", "rembg"],
+  "cSpell.words": ["astroc", "astype", "dropna", "psutil", "rembg"],
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
